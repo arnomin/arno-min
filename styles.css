@@ -1,11 +1,12 @@
 @font-face {
 	font-family: mainFont;
-	src: url(gotham-xnarrow-thin.otf);
+	src: url(gotham-xnarrow-medium.otf);
 }
 
 * {
 	color:white;
 	font-family: mainFont;
+	background-color: #4183D7;
 }
 
 #opener {
@@ -16,5 +17,4 @@
 
 #home {
 	height: 2000px;
-	background-color: #4183D7;
 }
