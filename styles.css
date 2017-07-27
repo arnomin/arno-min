@@ -4,17 +4,17 @@
 }
 
 * {
-	background-color: #4183D7;
 	color:white;
 	font-family: mainFont;
 }
 
 #opener {
 	font-size: 200%;
-	text-align:center;
+	text-align: center;
 	background-color: #2163B7;
 }
 
 #home {
 	height: 2000px;
+	background-color: #4183D7;
 }
