@@ -9,6 +9,12 @@
 	font-family: mainFont;
 }
 
-#header {
+#opener {
+	font-size: 200%;
 	text-align:center;
+	background-color: #2163B7;
+}
+
+#home {
+	height: 2000px;
 }
