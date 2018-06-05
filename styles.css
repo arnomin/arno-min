@@ -1,0 +1,12 @@
+@font-face {
+font-family: GothamBold;
+src: url(GothamBold.otf);
+}
+
+h1 {
+	font-family: GothamBold;
+}
+
+body {
+	background-color: #F8BD59;
+}
