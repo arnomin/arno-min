@@ -3,12 +3,8 @@ font-family: GothamBold;
 src: url(GothamBold.otf);
 }
 
-h1 {
-	font-family: GothamBold;
-}
-
 * {
-	font-family: helvetica;
+	font-family: GothamBold;
 	color: white;
 }
 
