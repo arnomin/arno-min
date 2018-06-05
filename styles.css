@@ -4,7 +4,7 @@ src: url(/Gotham-Bold.otf) format(".otf");
 }
 
 * {
-	font-family: GothamBold;
+	font-family: Helvetica;
 	color: white;
 }
 
