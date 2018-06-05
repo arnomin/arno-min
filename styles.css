@@ -1,6 +1,6 @@
 @font-face {
-font-family: GothamBold;
-src: url(/Gotham-Bold.otf);
+font-family: "GothamBold";
+src: url(/Gotham-Bold.otf) format(".otf");
 }
 
 * {
