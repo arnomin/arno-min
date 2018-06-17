@@ -8,16 +8,10 @@ src: url(/Gotham-Bold.otf) format(".otf");
 	color: white;
 }
 
-.backDiv {
-	position: fixed;
-	width:34vw;
+.sideDiv {
+	position:fixed;
+	width:50vw;
 	height:100vh;
-	text-align:center;
-}
-
-.centerDiv {
-	width:70vw;
-	margin:auto;
 	text-align:center;
 }
 
