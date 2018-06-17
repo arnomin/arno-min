@@ -1,10 +1,10 @@
 @font-face {
-	font-family: "GothamBold";
-	src: url(/Gotham-Bold.otf) format(".otf");
+font-family: "GothamBold";
+src: url(/Gotham-Bold.otf) format(".otf");
 }
 
 * {
-	font-family:helvetica;
+	font-family: GothamBold;
 	color: white;
 }
 
@@ -12,6 +12,12 @@
 	position: fixed;
 	width:34vw;
 	height:100vh;
+	text-align:center;
+}
+
+.centerDiv {
+	width:70vw;
+	margin:auto;
 	text-align:center;
 }
 
